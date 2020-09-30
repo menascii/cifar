@@ -9,10 +9,11 @@
       ./a.out
 
    input:
+      
       hardcoded file name for 60,000 cifar training images  
       download training data from https://www.cs.toronto.edu/~kriz/cifar.html
          
-         train-images.bin
+      train-images.bin
          
    output:
          
